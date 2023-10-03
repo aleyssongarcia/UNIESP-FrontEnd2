@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+div{
+    width: 300px; /* Defina a largura desejada para sua div centralizada */
+    height: 200px; /* Defina a altura desejada para sua div centralizada */
+    background-color: #f0f0f0; /* Cor de fundo da div */
+    border: 1px solid #ccc; /* Borda opcional */
+    padding: 20px; /* Espaçamento interno opcional */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
